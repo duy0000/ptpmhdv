@@ -1,9 +1,9 @@
-<hr>
+<div style="border: 1px solid;width:100%"></div>
 
-<div class="container-fluid footer pt-5">
+<div class="container-fluid footer ">
 
     <!-- --thongtin-- -->
-    <div class="container info mt-5">
+    <div class="container info mt-2">
 
         <div class="row mt-5 mb-5" style="display:flex;justify-content: space-between;">
             <div class="col-3 info-col">
@@ -25,7 +25,8 @@
                 </form>
             </div>
             <div class="col-3 info-social">
-                <div class="h6">THEO DÕI CHÚNG TÔI</div>
+                <div style="display:flex;justify-content:center;align-items: center;" class="h6">THEO DÕI
+                    CHÚNG TÔI</div>
                 <div class="row">
                     <div class="col-3">
                         <a href="">

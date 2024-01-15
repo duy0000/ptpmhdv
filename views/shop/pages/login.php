@@ -23,13 +23,14 @@
                     <div>Hoặc đăng nhập với</div>
                     <div class="row">
                         <div class="col-6">
-                            <button style="background-color: blue;border: 1px solid black;" class="btn f-b">Đăng nhập
-                                bằng
+                            <button style="border: 1px solid black;" class="btn btn-outline-primary"><img class="icon"
+                                    style="width:15px;" src="<?=URL ?>public\backend\images\facebook.svg" />
                                 facebook</button>
                         </div>
                         <div class="col-6">
-                            <button style="background-color: #999;border: 1px solid black;" class="btn gg">Đăng nhập
-                                bằng goole</button>
+                            <button style="border: 1px solid black;" class="btn btn-outline-dark"><img class="icon"
+                                    style="width:15px;" src="<?=URL ?>public\backend\images\google.svg" />
+                                google</button>
 
                         </div>
                     </div>

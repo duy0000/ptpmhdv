@@ -1,7 +1,7 @@
 <?php
 require("public/function/function.php");
 ?>
-
+<div style="border: 1px solid;width:100%"></div>
 <div class="h3 mb-5">Sản phẩm Mới</div>
 <div class="row" id="banchay">
     <div class="col-10 row">
@@ -30,6 +30,11 @@ require("public/function/function.php");
     </div>
 
 </div>
+<br>
+<br>
+<br>
+<br>
+<div style="border: 1px solid;width:100%"></div>
 <div class="h3 mt-5">Sản phẩm Giảm giá</div>
 <div class="row" id="banchay">
     <div class="col-12 row">
@@ -56,7 +61,13 @@ require("public/function/function.php");
 
 
 </div>
+<br>
+<br>
+<br>
+<br>
+<div style="border: 1px solid;width:100%"></div>
 <div class="h3 text-center mt-5">TIN TỨC</div>
+<hr>
 <div class="row">
     <div class="col-12 row">
         <?php
