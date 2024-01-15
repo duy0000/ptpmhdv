@@ -1,3 +1,5 @@
+<hr>
+
 <div class="container-fluid footer pt-5">
 
     <!-- --thongtin-- -->
@@ -83,21 +85,20 @@
                     <div class="h6">HỆ THỐNG CỬA HÀNG</div>
                     <ul>
                         <li>
-                            Zero Shop
+                            NHÓM 3 shop
                         </li>
                         <li class="text">
-                            Địa chỉ: Chung Cư Đông Hải, Tô Ký, Tân Chánh Hiệp, Quận 12
+                            Địa chỉ: Nguyễn Trãi-Thanh Xuân
                         </li>
                         <li>
-                            Phone : 1900 81 98
+                            Phone : 1900 1900
                         </li>
                     </ul>
                 </div>
                 <div class="col-3 link-support">
                     <div class="h6">VỀ CHÚNG TÔI</div>
-                    <div class="text">Với hơn 20 cửa hàng trải dài cả nước, Germe hy vọng sẽ mang đến sự phục vụ chu
-                        đáo cho tất
-                        cả các khách hàng. Hệ thống cửa hàng thời trang Germe luôn luôn lắng nghe những ý kiến đóng
+                    <div class="text">chúng tôi hy vọng sẽ mang đến sự phục vụ chu đáo cho tất
+                        cả các khách hàng. Hệ thống cửa hàng luôn luôn lắng nghe những ý kiến đóng
                         góp từ các khách hàng với mục tiêu đẩy mạnh dịch vụ, mở rộng hệ thống và làm hài lòng những
                         vị khách đến trên toàn quốc.</div>
                 </div>

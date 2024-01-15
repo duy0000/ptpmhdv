@@ -33,7 +33,7 @@
             </div>
             <div class="py-2 m-2 d-flex justify-content-end">
                 <div class="col-2 text-center">
-                    <button class="btn btn-success" type="submit">Mua hàng</button>
+                    <button class="btn btn-success" type="submit">Đặt hàng</button>
                 </div>
             </div>
         </fieldset>
