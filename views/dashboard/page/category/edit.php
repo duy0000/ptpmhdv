@@ -41,5 +41,8 @@ $r=$data['edit'];
     ?>
         </select>
     </div>
+    <a href="<?=URL?>index.php/admin/cateList/1"><button type="button;border: 1px solid darkblue"
+            class="btn btn-secondary">quay
+            Lại</button></a>
     <button type="submit" class="btn btn-primary">Lưu</button>
 </form>
